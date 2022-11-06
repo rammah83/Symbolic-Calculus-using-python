@@ -1,0 +1,1 @@
+**This repository help you to learn and test some "sympy" functinnalities**
